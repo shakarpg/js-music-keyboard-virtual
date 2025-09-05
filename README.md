@@ -64,10 +64,6 @@ Abra o arquivo `index.html` no seu navegador preferido. O teclado virtual estar�
 * **Aprimorar a interface**: Melhorar a aparência visual com animações mais sofisticadas e efeitos de transição.
 * **Adicionar uma funcionalidade de gravação**: Permitir que os usuários gravem suas melodias tocadas no teclado e reproduzam.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Contribuições
 
 Se você deseja contribuir para este projeto, por favor, siga os passos abaixo:
